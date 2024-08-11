@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Vincent Feng
-- 👀 I’m interested in the intersection of data science and investing 
 - 🌱 I’m currently a MS Applied Data Science student at the University of Chicago
 - 📫 How to reach me https://www.linkedin.com/in/fengv/
 
