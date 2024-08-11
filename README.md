@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent Feng
-- 🌱 I’m currently a MS Applied Data Science student at the University of Chicago
+- 🌱 I’m currently an MS Applied Data Science student at the University of Chicago
 - 📫 How to reach me https://www.linkedin.com/in/fengv/
 
 <!---
