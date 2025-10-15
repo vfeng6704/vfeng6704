@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vincent Feng and am currently an MS Applied Data Science student at the University of Chicago
-- 📫 How to reach me https://www.linkedin.com/in/fengv/
+
 
 <!---
 vfeng6704/vfeng6704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
